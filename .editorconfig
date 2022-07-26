@@ -1,0 +1,10 @@
+[*]
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+
+[*.{js,ts}]
+indent_size = 2
+
+[*.{html,hbs,css,scss}]
+indent_size = 4
